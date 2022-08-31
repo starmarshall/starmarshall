@@ -3,7 +3,7 @@
 <div>
 
 ### Hello!👋
-My name is **Volodymyr** and I enjoy working with a wide variety of technologies. My experience helps to take ownership and deliver end-to-end solutions for web applications. I have a willingness to learn new things and rise to challenges.
+My name is **Volodymyr** and I enjoy working with a wide variety of technologies. My experience helps to deliver end-to-end solutions for web applications. I have a willingness to learn new things and rise to challenges.
 
 ## Some facts about me
 - 🤝Great team work - I can find a common language even with Wookiee
